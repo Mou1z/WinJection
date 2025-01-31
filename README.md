@@ -1,4 +1,7 @@
 # WinJection
+
+**Requirements**: [WinDivert](https://github.com/basil00/WinDivert)
+
 This is a library for injecting packets into a live TCP connection, in both directions.
 
 I originally coded it in Python, if you're interested you can take a look at the [pyJection](https://github.com/Mou1z/pyJection) repository. 
